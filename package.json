@@ -1,0 +1,19 @@
+{
+  "name": "htmlformat",
+  "version": "1.0.2",
+  "description": "format tool for html",
+  "main": "htmlformat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "format"
+  ],
+  "author": "nd",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yyunfan/htmlformat.git"
+  }
+}
